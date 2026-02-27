@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Ashish</h1>
+<h3 align="center">⚡ Building CodeAsh | Backend Engineering | Rust | Solidity</h3>
 
-<!--
-**ash-stark-lm/ash-stark-lm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🛠 Currently building **CodeAsh** – a full-stack coding platform  
+- 🦀 Deep diving into Rust (ownership, memory, concurrency)  
+- ⛓ Exploring Solidity + Foundry deployments  
+- ⚙️ Obsessed with system design & backend architecture  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Languages:** Rust • JavaScript • Solidity  
+**Backend:** Node.js • Express • MongoDB • Redis  
+**Frontend:** React • Redux • Tailwind • Framer Motion  
+
+---
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
