@@ -4,16 +4,19 @@
 ---
 
 ## 🚀 About Me
-- 🛠 Currently building **CodeAsh** – a full-stack coding platform  
+- 🦀 Currently Deep diving into Rust (ownership, memory, concurrency).
+- Learning Java and SpringBoot.
+- Loves building backend in microservices. 
 - 🦀 Deep diving into Rust (ownership, memory, concurrency)  
-- ⛓ Exploring Solidity + Foundry deployments  
-- ⚙️ Obsessed with system design & backend architecture  
+- ⚙️ Obsessed with system design & backend architecture.  
+
 
 ---
 
 ## 🛠 Tech Stack
-**Languages:** Rust • JavaScript • Solidity  
-**Backend:** Node.js • Express • MongoDB • Redis  
+**Languages:** Rust • JavaScript • Solidity + Typescript + C++ + Java  
+**Backend:** Node.js • Express.Js
+**Database:** MongoDb, Postgress, Redis
 **Frontend:** React • Redux • Tailwind • Framer Motion  
 
 ---
