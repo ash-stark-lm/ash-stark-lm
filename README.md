@@ -1,27 +1,27 @@
 <h1 align="center">Hey 👋 I'm Ashish</h1>
-<h3 align="center">⚡ Building CodeAsh | Backend Engineering | Rust | Solidity</h3>
+<h3 align="center">⚡ Built CodeAsh | Backend Engineering | Rust | Solidity</h3>
 
 ---
 
 ## 🚀 About Me
 - 🦀 Currently Deep diving into Rust (ownership, memory, concurrency).
 - Learning Java and SpringBoot.
-- Loves building backend in microservices. 
-- 🦀 Deep diving into Rust (ownership, memory, concurrency)  
-- ⚙️ Obsessed with system design & backend architecture.  
+- Loves building backend in microservices.  
+- ⚙️ Obsessed with system design & backend architecture. 
 
 
 ---
 
 ## 🛠 Tech Stack
 **Languages:** Rust • JavaScript • Solidity + Typescript + C++ + Java  
-**Backend:** Node.js • Express.Js
+**Backend:** Node.js • Express.Js  • RabbitMQ 
 **Database:** MongoDb, Postgress, Redis
-**Frontend:** React • Redux • Tailwind • Framer Motion  
+**Frontend:** React • NextJs • Redux • Tailwind • Framer Motion • Gsap  
+ 
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-stark-lm&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-stark-lm&layout=compact&theme=tokyonight)
