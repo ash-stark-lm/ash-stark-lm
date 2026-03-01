@@ -21,7 +21,3 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-stark-lm&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-stark-lm&layout=compact&theme=tokyonight)
